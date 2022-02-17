@@ -1,0 +1,7 @@
+Initiate a variable num to 0
+Initiate an empty array to Numbers
+Initiate an empty array to squares
+Create a loop to obtain input of a stream of numbers and append to the Numbers array
+Create a for loop to go through the Numbers array and get the squares of each item
+Put these squares into the sqaures array 
+Make a sum of the squares array
